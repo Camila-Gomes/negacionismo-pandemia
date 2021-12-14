@@ -1,0 +1,124 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	box-sizing: border-box;
+	background-color: #DCF0F2;
+	font-family: 'Arial', sans-serif;
+	margin: 0px;
+}
+p{
+	padding: 15px;
+	color: #000;
+	text-align: justify;
+}
+h2{
+	color: #023059;
+	font-family: 'Times New Roman', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	text-decoration: underline;
+	padding: 10px;
+}
+h3{
+	color: #5C3A49;
+	font-family: Arial, sans-serif;
+	text-align: left;
+	margin-left: 2%;
+	text-decoration: underline;
+	padding: -10px;
+}
+h1{
+	font-family: Arial, sans-serif;
+	font size: 15px;
+	color: #0051A8;
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+}
+img{
+	padding: 10px;
+	width: 400px;
+	border-radius: 15px;
+	display: block;
+}
+#area_cabecalho{
+	background-position: center;
+	background-image: url('imagens/banner.jpg');
+	background-repeat: no-repeat;
+	padding: 5px;
+	text-align: center;
+	clear: both;
+	height: 200px;
+	max-width: 100%;
+}
+#area_conteudo{
+	padding: 10px;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 5%;
+	border-radius: 10px;
+	background-color: #94BAC2;
+}
+
+#area_menu, #area_logo{
+	padding: 5px;
+	align-items: center;
+}
+#area_menu{
+	display: block;
+	padding: 10px;
+}
+#area_menu a:link, #area_menu a:visited{
+	text-decoration: none;
+	color: #000;
+	font-family: 'Arial', sans-serif;
+	font-size: 20px;
+	padding: 3px 10px;
+	border-radius: 5px;
+}
+#area_menu a:hover{
+	background-color: #f2f2f2;
+	font-family: Arial;
+}
+#area_logo, #area_cabecalho{
+	background-color: ;
+}
+#area_rodape{
+	color:#f2f2f2;
+	text-align: center;
+	font-size: 18px;
+	clear: both;
+	background-color: #27668C;
+	padding: 15px;
+}
+.topicos{
+	text-align: justify;
+	padding: 20px 20px;
+	float: left;
+	margin-top: 5%;
+	clear: both;
+	background-color: #94BAC2;
+	border-radius: 10px;
+}
+.vacinacao{
+	background-color:#94BAC2;
+	text-align: justify;
+	padding: 10px 10px;
+	float: left;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	clear: both;
+	border-radius: 10px;
+}
+
+
+	
+
+
+
+
+
+	
